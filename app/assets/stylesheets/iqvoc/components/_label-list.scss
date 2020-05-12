@@ -13,8 +13,8 @@
 }
 
 .label-list-item-value {
-  background-color: $gray-lighter;
-  border: 1px solid darken($gray-lighter, 5%);
+  background-color: $gray-100;
+  border: 1px solid darken($gray-100, 5%);
   display: inline-block;
   padding: .25em 1em;
 
@@ -27,7 +27,7 @@
 
 .label-list-item-lang {
   // color: $body-bg;
-  border: 1px solid darken($gray-lighter, 5%);
+  border: 1px solid darken($gray-100, 5%);
   border-left: 0;
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;

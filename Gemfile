@@ -37,7 +37,8 @@ gem "rdf-vocab"
 gem "deep_cloneable"
 gem 'uglifier'
 gem 'sass-rails', '~> 5.0.0'
-gem 'bootstrap_form', '~> 2.7.0'
+gem 'bootstrap'
+gem 'bootstrap_form'
 gem 'font-awesome-rails'
 gem 'apipie-rails'
 gem 'maruku', require: false
